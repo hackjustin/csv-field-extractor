@@ -7,6 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/hackjustin/csv-field-extractor)
 ![Code style: flake8](https://img.shields.io/badge/code%20style-flake8-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-pandas-green)
+![PyPI](https://img.shields.io/pypi/v/csv-field-extractor)
 
 A simple Python utility to extract specific fields/columns from CSV files.
 
