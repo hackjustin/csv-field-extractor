@@ -8,7 +8,7 @@ setup(
     description="A simple utility to extract specific fields from CSV files",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/csv-field-extractor",
+    url="https://github.com/hackjustin/csv-field-extractor",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

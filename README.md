@@ -116,7 +116,7 @@ symbols = extract_field_from_csv('Results.csv', 'Symbol', sort_alphabetically=Tr
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/csv-field-extractor.git
+git clone https://github.com/hackjustin/csv-field-extractor.git
 cd csv-field-extractor
 
 # Create virtual environment and install dependencies
