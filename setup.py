@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="csv-field-extractor",
-    version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="1.0.1",
+    author="hackjustin",
+    author_email="badsign@gmail.com",
     description="A simple utility to extract specific fields from CSV files",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
