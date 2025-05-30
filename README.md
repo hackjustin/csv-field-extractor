@@ -1,5 +1,13 @@
 # CSV Field Extractor
 
+![GitHub release](https://img.shields.io/github/v/release/hackjustin/csv-field-extractor)
+![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub issues](https://img.shields.io/github/issues/hackjustin/csv-field-extractor)
+![GitHub stars](https://img.shields.io/github/stars/hackjustin/csv-field-extractor)
+![Code style: flake8](https://img.shields.io/badge/code%20style-flake8-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-pandas-green)
+
 A simple Python utility to extract specific fields/columns from CSV files.
 
 ## Features
@@ -116,7 +124,7 @@ symbols = extract_field_from_csv('Results.csv', 'Symbol', sort_alphabetically=Tr
 
 ```bash
 # Clone the repository
-git clone https://github.com/hackjustin/csv-field-extractor.git
+git clone https://github.com/yourusername/csv-field-extractor.git
 cd csv-field-extractor
 
 # Create virtual environment and install dependencies
